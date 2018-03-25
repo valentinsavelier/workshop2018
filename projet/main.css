@@ -1,0 +1,90 @@
+html,body{
+  margin:0;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+h1{
+  text-align: center;
+  text-transform: uppercase;
+  color:#4C3799;
+
+}
+
+.bouton{
+  background-color:#4C3799;
+}
+/*Menu principal*/
+.menu{
+background-color:#000;
+display:flex;
+
+height:90px;
+justify-content: space-around;
+justify-content: center;
+align-items:center;
+}
+
+
+
+a{
+  color:#fff;
+  text-decoration:none;
+  padding:50px;
+
+}
+
+a:hover{
+  color:#4C3799;
+  text-decoration:none;
+
+}
+
+.logo{
+  letter-spacing:10px;
+}
+
+/*Fin Menu principal*/
+
+
+/*PRESENTATION*/
+
+
+/*FIN PRESENTATION*/
+
+
+/*NOTRE EQUIPE*/
+.Collection{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-around;
+  padding:80px;
+}
+
+/*FIN NOTRE EQUIPE */
+
+
+
+
+
+/* Nos services*/
+.box{
+  color:#000;
+}
+
+.box1{
+  color:#000;
+}
+
+
+
+/*Fin Nos services*/
+
+/*Contactez nous */
+.contact{
+  height:40%;
+  background-color: #000;
+
+
+}
+/*Fin contactez Nous*/
