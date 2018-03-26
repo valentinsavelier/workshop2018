@@ -46,14 +46,20 @@ a:hover{
 /*Fin Menu principal*/
 
 
+/*  barre de recherche*/ 
+
+
+/* fin de barre de recherche*/ 
+
+
 /*PRESENTATION*/
 
 
 /*FIN PRESENTATION*/
 
 
-/*NOTRE EQUIPE*/
-.Collection{
+/*collection*/
+.Noscollection{
   display: flex;
   justify-content: center;
   align-items: center;
@@ -61,13 +67,13 @@ a:hover{
   padding:80px;
 }
 
-/*FIN NOTRE EQUIPE */
+/*FIN de collection */
 
 
 
 
 
-/* Nos services*/
+/* gamme de produit */
 .box{
   color:#000;
 }
@@ -78,7 +84,7 @@ a:hover{
 
 
 
-/*Fin Nos services*/
+/*Fin de gamme de produit */
 
 /*Contactez nous */
 .contact{
@@ -88,3 +94,11 @@ a:hover{
 
 }
 /*Fin contactez Nous*/
+
+/*paiement*/
+.Paiement{
+  height:60%;
+  background-color: #f555;
+}
+
+/*fin de paiement*/
