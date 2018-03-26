@@ -114,6 +114,14 @@ a:hover{
 }
 /*Fin contactez Nous*/
 
+
+/* PresSalon */
+#presSalon
+ {
+  background-image: url("image/compagnie_de_provence.jpg");
+  background-size: 100%;
+  height: 90vh;
+ }
 /*paiement*/
 .Paiement{
   height:60%;
